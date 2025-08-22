@@ -475,9 +475,8 @@
   background-position-x: -40px;
   background-size: 80px 40px;
   text-indent: -99999px;
-  object-fit: cover;
 }
-/* #section6 .copy .sns li a{
+#section6 .copy .sns li a{
   display:block;
   width: 40px;
   height: 40px;
@@ -485,7 +484,7 @@
   background-size: 40px 40px;
   text-indent: -99999px;
   object-fit: cover;
-} */
+}
 /* 위로 버튼 */
 #section6 .top{
   position: absolute;
