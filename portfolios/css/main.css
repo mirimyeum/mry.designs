@@ -464,10 +464,11 @@
   color: #fff;
 }
 #section6 .copy .sns{
+  width: 1800px;
   display:flex;
   gap:10px;
 }
-#section6 .copy ul.sns li a{
+/* #section6 .copy ul.sns li a{
   display:block;
   width: 40px;
   height: 40px;
@@ -475,7 +476,12 @@
   background-position-x: -40px;
   background-size: 80px 40px;
   text-indent: -99999px;
-}
+} */
+ #section6 .copy .sns li{
+  width: 40px;
+  height: 40px;
+  margin-left: 125px;
+ }
 #section6 .copy .sns li a{
   display:block;
   width: 40px;
